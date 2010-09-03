@@ -509,6 +509,7 @@
 					"-all_load",
 				);
 				PRODUCT_NAME = FTUtils;
+				VALID_ARCHS = armv6;
 			};
 			name = Development;
 		};
@@ -532,6 +533,7 @@
 					"-all_load",
 				);
 				PRODUCT_NAME = FTUtils;
+				VALID_ARCHS = armv6;
 			};
 			name = "Ad-Hoc Distribution";
 		};
@@ -607,6 +609,7 @@
 					"-all_load",
 				);
 				PRODUCT_NAME = FTUtils;
+				VALID_ARCHS = armv6;
 			};
 			name = "Development (Pre-Production Servers)";
 		};
@@ -701,6 +704,7 @@
 					"-all_load",
 				);
 				PRODUCT_NAME = FTUtils;
+				VALID_ARCHS = armv6;
 			};
 			name = "Ad-Hoc Distribution (Pre-Production Servers)";
 		};
@@ -795,6 +799,7 @@
 					"-all_load",
 				);
 				PRODUCT_NAME = FTUtils;
+				VALID_ARCHS = armv6;
 			};
 			name = "Development (QA Servers)";
 		};
@@ -889,6 +894,7 @@
 					"-all_load",
 				);
 				PRODUCT_NAME = FTUtils;
+				VALID_ARCHS = armv6;
 			};
 			name = "Ad-Hoc Distribution (QA Servers)";
 		};
@@ -983,6 +989,7 @@
 					"-all_load",
 				);
 				PRODUCT_NAME = FTUtils;
+				VALID_ARCHS = armv6;
 			};
 			name = "Development (QA Eller Servers)";
 		};
@@ -1077,6 +1084,7 @@
 					"-all_load",
 				);
 				PRODUCT_NAME = FTUtils;
+				VALID_ARCHS = armv6;
 			};
 			name = "Ad-Hoc Distribution (QA Eller Servers)";
 		};
@@ -1171,6 +1179,7 @@
 					"-all_load",
 				);
 				PRODUCT_NAME = FTUtils;
+				VALID_ARCHS = armv6;
 			};
 			name = "Development (Development Servers)";
 		};
@@ -1265,6 +1274,7 @@
 					"-all_load",
 				);
 				PRODUCT_NAME = FTUtils;
+				VALID_ARCHS = armv6;
 			};
 			name = "Ad-Hoc Distribution (Development Servers)";
 		};
@@ -1359,6 +1369,7 @@
 					"-all_load",
 				);
 				PRODUCT_NAME = FTUtils;
+				VALID_ARCHS = armv6;
 			};
 			name = "App Store Distribution";
 		};
@@ -1459,6 +1470,7 @@
 					"-all_load",
 				);
 				PRODUCT_NAME = FTUtils;
+				VALID_ARCHS = armv6;
 			};
 			name = Debug;
 		};
@@ -1555,6 +1567,7 @@
 					"-all_load",
 				);
 				PRODUCT_NAME = FTUtils;
+				VALID_ARCHS = armv6;
 			};
 			name = Release;
 		};
