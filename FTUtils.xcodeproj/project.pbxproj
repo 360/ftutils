@@ -527,6 +527,10 @@
 				GCC_PREFIX_HEADER = FTUtils_Prefix.pch;
 				GCC_THUMB_SUPPORT = NO;
 				INSTALL_PATH = /usr/local/lib;
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-all_load",
+				);
 				PRODUCT_NAME = FTUtils;
 			};
 			name = "Ad-Hoc Distribution";
@@ -598,6 +602,10 @@
 				GCC_PREFIX_HEADER = FTUtils_Prefix.pch;
 				GCC_THUMB_SUPPORT = NO;
 				INSTALL_PATH = /usr/local/lib;
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-all_load",
+				);
 				PRODUCT_NAME = FTUtils;
 			};
 			name = "Development (Pre-Production Servers)";
@@ -688,6 +696,10 @@
 				GCC_PREFIX_HEADER = FTUtils_Prefix.pch;
 				GCC_THUMB_SUPPORT = NO;
 				INSTALL_PATH = /usr/local/lib;
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-all_load",
+				);
 				PRODUCT_NAME = FTUtils;
 			};
 			name = "Ad-Hoc Distribution (Pre-Production Servers)";
@@ -778,6 +790,10 @@
 				GCC_PREFIX_HEADER = FTUtils_Prefix.pch;
 				GCC_THUMB_SUPPORT = NO;
 				INSTALL_PATH = /usr/local/lib;
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-all_load",
+				);
 				PRODUCT_NAME = FTUtils;
 			};
 			name = "Development (QA Servers)";
@@ -868,6 +884,10 @@
 				GCC_PREFIX_HEADER = FTUtils_Prefix.pch;
 				GCC_THUMB_SUPPORT = NO;
 				INSTALL_PATH = /usr/local/lib;
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-all_load",
+				);
 				PRODUCT_NAME = FTUtils;
 			};
 			name = "Ad-Hoc Distribution (QA Servers)";
@@ -958,6 +978,10 @@
 				GCC_PREFIX_HEADER = FTUtils_Prefix.pch;
 				GCC_THUMB_SUPPORT = NO;
 				INSTALL_PATH = /usr/local/lib;
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-all_load",
+				);
 				PRODUCT_NAME = FTUtils;
 			};
 			name = "Development (QA Eller Servers)";
@@ -1048,6 +1072,10 @@
 				GCC_PREFIX_HEADER = FTUtils_Prefix.pch;
 				GCC_THUMB_SUPPORT = NO;
 				INSTALL_PATH = /usr/local/lib;
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-all_load",
+				);
 				PRODUCT_NAME = FTUtils;
 			};
 			name = "Ad-Hoc Distribution (QA Eller Servers)";
@@ -1138,6 +1166,10 @@
 				GCC_PREFIX_HEADER = FTUtils_Prefix.pch;
 				GCC_THUMB_SUPPORT = NO;
 				INSTALL_PATH = /usr/local/lib;
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-all_load",
+				);
 				PRODUCT_NAME = FTUtils;
 			};
 			name = "Development (Development Servers)";
@@ -1228,6 +1260,10 @@
 				GCC_PREFIX_HEADER = FTUtils_Prefix.pch;
 				GCC_THUMB_SUPPORT = NO;
 				INSTALL_PATH = /usr/local/lib;
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-all_load",
+				);
 				PRODUCT_NAME = FTUtils;
 			};
 			name = "Ad-Hoc Distribution (Development Servers)";
@@ -1318,6 +1354,10 @@
 				GCC_PREFIX_HEADER = FTUtils_Prefix.pch;
 				GCC_THUMB_SUPPORT = NO;
 				INSTALL_PATH = /usr/local/lib;
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-all_load",
+				);
 				PRODUCT_NAME = FTUtils;
 			};
 			name = "App Store Distribution";
@@ -1510,6 +1550,10 @@
 				GCC_PREFIX_HEADER = FTUtils_Prefix.pch;
 				GCC_THUMB_SUPPORT = NO;
 				INSTALL_PATH = /usr/local/lib;
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-all_load",
+				);
 				PRODUCT_NAME = FTUtils;
 			};
 			name = Release;
