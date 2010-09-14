@@ -383,7 +383,14 @@
 			isa = PBXProject;
 			buildConfigurationList = 1DEB922208733DC00010E9CD /* Build configuration list for PBXProject "FTUtils" */;
 			compatibilityVersion = "Xcode 3.1";
+			developmentRegion = English;
 			hasScannedForEncodings = 1;
+			knownRegions = (
+				English,
+				Japanese,
+				French,
+				German,
+			);
 			mainGroup = 0867D691FE84028FC02AAC07 /* FTUtils */;
 			productRefGroup = 034768DFFF38A50411DB9C8B /* Products */;
 			projectDirPath = "";
@@ -504,12 +511,14 @@
 				GCC_PREFIX_HEADER = FTUtils_Prefix.pch;
 				GCC_THUMB_SUPPORT = NO;
 				INSTALL_PATH = /usr/local/lib;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.0;
 				ONLY_ACTIVE_ARCH = YES;
 				OTHER_LDFLAGS = (
 					"-ObjC",
 					"-all_load",
 				);
 				PRODUCT_NAME = FTUtils;
+				SDKROOT = iphoneos4.1;
 				VALID_ARCHS = armv6;
 			};
 			name = Development;
@@ -529,12 +538,14 @@
 				GCC_PREFIX_HEADER = FTUtils_Prefix.pch;
 				GCC_THUMB_SUPPORT = NO;
 				INSTALL_PATH = /usr/local/lib;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.0;
 				ONLY_ACTIVE_ARCH = YES;
 				OTHER_LDFLAGS = (
 					"-ObjC",
 					"-all_load",
 				);
 				PRODUCT_NAME = FTUtils;
+				SDKROOT = iphoneos4.1;
 				VALID_ARCHS = armv6;
 			};
 			name = "Ad-Hoc Distribution";
@@ -606,12 +617,14 @@
 				GCC_PREFIX_HEADER = FTUtils_Prefix.pch;
 				GCC_THUMB_SUPPORT = NO;
 				INSTALL_PATH = /usr/local/lib;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.0;
 				ONLY_ACTIVE_ARCH = YES;
 				OTHER_LDFLAGS = (
 					"-ObjC",
 					"-all_load",
 				);
 				PRODUCT_NAME = FTUtils;
+				SDKROOT = iphoneos4.1;
 				VALID_ARCHS = armv6;
 			};
 			name = "Development (Pre-Production Servers)";
@@ -702,12 +715,14 @@
 				GCC_PREFIX_HEADER = FTUtils_Prefix.pch;
 				GCC_THUMB_SUPPORT = NO;
 				INSTALL_PATH = /usr/local/lib;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.0;
 				ONLY_ACTIVE_ARCH = YES;
 				OTHER_LDFLAGS = (
 					"-ObjC",
 					"-all_load",
 				);
 				PRODUCT_NAME = FTUtils;
+				SDKROOT = iphoneos4.1;
 				VALID_ARCHS = armv6;
 			};
 			name = "Ad-Hoc Distribution (Pre-Production Servers)";
@@ -798,12 +813,14 @@
 				GCC_PREFIX_HEADER = FTUtils_Prefix.pch;
 				GCC_THUMB_SUPPORT = NO;
 				INSTALL_PATH = /usr/local/lib;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.0;
 				ONLY_ACTIVE_ARCH = YES;
 				OTHER_LDFLAGS = (
 					"-ObjC",
 					"-all_load",
 				);
 				PRODUCT_NAME = FTUtils;
+				SDKROOT = iphoneos4.1;
 				VALID_ARCHS = armv6;
 			};
 			name = "Development (QA Servers)";
@@ -894,12 +911,14 @@
 				GCC_PREFIX_HEADER = FTUtils_Prefix.pch;
 				GCC_THUMB_SUPPORT = NO;
 				INSTALL_PATH = /usr/local/lib;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.0;
 				ONLY_ACTIVE_ARCH = YES;
 				OTHER_LDFLAGS = (
 					"-ObjC",
 					"-all_load",
 				);
 				PRODUCT_NAME = FTUtils;
+				SDKROOT = iphoneos4.1;
 				VALID_ARCHS = armv6;
 			};
 			name = "Ad-Hoc Distribution (QA Servers)";
@@ -990,12 +1009,14 @@
 				GCC_PREFIX_HEADER = FTUtils_Prefix.pch;
 				GCC_THUMB_SUPPORT = NO;
 				INSTALL_PATH = /usr/local/lib;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.0;
 				ONLY_ACTIVE_ARCH = YES;
 				OTHER_LDFLAGS = (
 					"-ObjC",
 					"-all_load",
 				);
 				PRODUCT_NAME = FTUtils;
+				SDKROOT = iphoneos4.1;
 				VALID_ARCHS = armv6;
 			};
 			name = "Development (QA Eller Servers)";
@@ -1086,12 +1107,14 @@
 				GCC_PREFIX_HEADER = FTUtils_Prefix.pch;
 				GCC_THUMB_SUPPORT = NO;
 				INSTALL_PATH = /usr/local/lib;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.0;
 				ONLY_ACTIVE_ARCH = YES;
 				OTHER_LDFLAGS = (
 					"-ObjC",
 					"-all_load",
 				);
 				PRODUCT_NAME = FTUtils;
+				SDKROOT = iphoneos4.1;
 				VALID_ARCHS = armv6;
 			};
 			name = "Ad-Hoc Distribution (QA Eller Servers)";
@@ -1182,12 +1205,14 @@
 				GCC_PREFIX_HEADER = FTUtils_Prefix.pch;
 				GCC_THUMB_SUPPORT = NO;
 				INSTALL_PATH = /usr/local/lib;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.0;
 				ONLY_ACTIVE_ARCH = YES;
 				OTHER_LDFLAGS = (
 					"-ObjC",
 					"-all_load",
 				);
 				PRODUCT_NAME = FTUtils;
+				SDKROOT = iphoneos4.1;
 				VALID_ARCHS = armv6;
 			};
 			name = "Development (Development Servers)";
@@ -1278,12 +1303,14 @@
 				GCC_PREFIX_HEADER = FTUtils_Prefix.pch;
 				GCC_THUMB_SUPPORT = NO;
 				INSTALL_PATH = /usr/local/lib;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.0;
 				ONLY_ACTIVE_ARCH = YES;
 				OTHER_LDFLAGS = (
 					"-ObjC",
 					"-all_load",
 				);
 				PRODUCT_NAME = FTUtils;
+				SDKROOT = iphoneos4.1;
 				VALID_ARCHS = armv6;
 			};
 			name = "Ad-Hoc Distribution (Development Servers)";
@@ -1374,12 +1401,14 @@
 				GCC_PREFIX_HEADER = FTUtils_Prefix.pch;
 				GCC_THUMB_SUPPORT = NO;
 				INSTALL_PATH = /usr/local/lib;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.0;
 				ONLY_ACTIVE_ARCH = YES;
 				OTHER_LDFLAGS = (
 					"-ObjC",
 					"-all_load",
 				);
 				PRODUCT_NAME = FTUtils;
+				SDKROOT = iphoneos4.1;
 				VALID_ARCHS = armv6;
 			};
 			name = "App Store Distribution";
@@ -1476,12 +1505,14 @@
 				GCC_PREFIX_HEADER = FTUtils_Prefix.pch;
 				GCC_THUMB_SUPPORT = NO;
 				INSTALL_PATH = /usr/local/lib;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.0;
 				ONLY_ACTIVE_ARCH = YES;
 				OTHER_LDFLAGS = (
 					"-ObjC",
 					"-all_load",
 				);
 				PRODUCT_NAME = FTUtils;
+				SDKROOT = iphoneos4.1;
 				VALID_ARCHS = armv6;
 			};
 			name = Debug;
@@ -1574,12 +1605,14 @@
 				GCC_PREFIX_HEADER = FTUtils_Prefix.pch;
 				GCC_THUMB_SUPPORT = NO;
 				INSTALL_PATH = /usr/local/lib;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.0;
 				ONLY_ACTIVE_ARCH = YES;
 				OTHER_LDFLAGS = (
 					"-ObjC",
 					"-all_load",
 				);
 				PRODUCT_NAME = FTUtils;
+				SDKROOT = iphoneos4.1;
 				VALID_ARCHS = armv6;
 			};
 			name = Release;
