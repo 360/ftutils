@@ -3,3 +3,5 @@ build
 *.pbxuser
 *.perspectivev3
 apidocs
+
+FTUtils.xcodeproj/xcuserdata/
